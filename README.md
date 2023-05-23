@@ -1,2 +1,0 @@
-# mtkm
-yeni css denemeleri
